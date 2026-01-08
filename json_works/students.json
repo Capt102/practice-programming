@@ -1,0 +1,12 @@
+[
+    {"rol":123,"name":"raj","gender":"male","course":"django"},
+    {"rol":124,"name":"raju","gender":"male","course":"ds"},
+    {"rol":125,"name":"rajith","gender":"male","course":"mearn"},
+    {"rol":138,"name":"ravan","gender":"male","course":"java"},
+    {"rol":127,"name":"ajisha","gender":"female","course":"django"},
+    {"rol":126,"name":"sree","gender":"female","course":"ds"},
+    {"rol":129,"name":"malu","gender":"female","course":"java"},
+    {"rol":130,"name":"tom","gender":"male","course":"mearn"},
+    {"rol":131,"name":"bruce","gender":"male","course":"django"},
+    {"rol":133,"name":"anish","gender":"female","course":"ds"}
+]
